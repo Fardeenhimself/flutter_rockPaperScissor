@@ -1,6 +1,8 @@
 # rock_papper_scissor
 
-A new Flutter project.
+A Rock Paper Scissor game using dart:math 
+Clearing concept for State Update in dart
+Stateful vs Stateless widgets.
 
 ## Getting Started
 
